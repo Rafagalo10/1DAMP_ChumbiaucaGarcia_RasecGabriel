@@ -12,5 +12,5 @@ Un programa informatico es una serie de instrucciones claras que se le da al ord
 
 ## Etapas del desarrollo del Software
 
-
+[etapas](image/etapas del desarrollo.png)
 
