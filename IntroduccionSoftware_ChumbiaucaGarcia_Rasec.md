@@ -24,7 +24,7 @@ Son 7 etapas en total y son:
 [Fuentes](https://www.ibm.com/es-es/think/topics/sdlc)
 
 
-[etapas](image/etapas_del_desarrollo.png)
+![etapas del desarrollo de software](image/etapas_del_desarrollo.png)
 
 ### Repositorio
 [1DAMP_ChumbiaucaGarcia_RasecGabriel](https://github.com/Rafagalo10/1DAMP_ChumbiaucaGarcia_RasecGabriel)
